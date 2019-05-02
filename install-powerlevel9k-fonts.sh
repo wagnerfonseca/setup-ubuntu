@@ -1,6 +1,8 @@
-## Instrution get in: https://powerline.readthedocs.io/en/latest/installation/linux.html#fonts-installation
+#!/bin/bash
+# Instrution get in: https://powerline.readthedocs.io/en/latest/installation/linux.html#fonts-installation
 
 wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
+
 wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
 
 DIRETORIO_FONT="~/.local/share/fonts/"
