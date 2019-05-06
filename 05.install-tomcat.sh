@@ -4,7 +4,7 @@
 TOMCAT_VERSION=7.0.94
 TOMCAT_NAME=apache-tomcat-$TOMCAT_VERSION
 TOMCAT_ARCHIVE=$TOMCAT_NAME.tar.gz
-TOMCAT_URL=http://mirror.nbtelecom.com.br/apache/tomcat/tomcat-7/v$TOMCAT_VERSION/bin/$TOMCAT_ARCHIVE
+TOMCAT_URL=http://ftp.unicamp.br/pub/apache/tomcat/tomcat-7/v$TOMCAT_VERSION/bin/$TOMCAT_ARCHIVE
 APACHE_PATH=/opt/apache
 TOMCAT_PATH=$APACHE_PATH/$TOMCAT_NAME
 TOMCAT_START=$TOMCAT_PATH/bin/startup.sh

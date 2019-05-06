@@ -2,7 +2,13 @@
 
 Configuração básicas para a criação do arquivo `~/.zshrc`
 
-zsh 1 2 1 0
+Escolha a sequencia de opções para configuração basica
+```
+1 
+2 
+1 
+0
+```
 
 ### Install OhMyZsh
 ```

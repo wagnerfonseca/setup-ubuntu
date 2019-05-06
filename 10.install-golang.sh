@@ -1,7 +1,7 @@
 #!/bin/bash
 . package-install-basic.sh
 
-VERSION="1.11.5"
+VERSION="1.12.4"
 SOURCE_NAME="go${VERSION}"
 SOURCE_ARCHIVE="${SOURCE_NAME}.linux-amd64.tar.gz"
 
